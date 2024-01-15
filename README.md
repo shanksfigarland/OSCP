@@ -8,3 +8,12 @@ Compile against
 ```
 https://github.com/X0RW3LL/XenSpawn
 Docker container.
+
+
+### impacket suite
+https://github.com/fortra/impacket
+
+### netexec (before crackmapexec)
+https://www.netexec.wiki/
+
+Rubeus, mimikatz... etc.
