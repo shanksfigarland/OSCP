@@ -16,4 +16,4 @@ https://github.com/fortra/impacket
 ### netexec (before crackmapexec)
 https://www.netexec.wiki/
 
-Rubeus, mimikatz... etc.
+Rubeus, mimikatz, chisel, ligolo-ng ... etc.
